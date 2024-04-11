@@ -6,7 +6,7 @@ To enhance the professionalism of your code further, you might consider adding c
 
 Regarding the README file for GitHub, here's a template you can use:
 
-```
+
 Budget Calculator
 
 This is a simple budget calculator application built with Python and tkinter. It allows users to add expenses and calculates the total expenses dynamically. Notifications are displayed whenever a new expense is added.
@@ -39,10 +39,6 @@ Run the `budget_calculator.py` script:
 3. Enter the item name and cost in the respective entry fields.
 4. Click the "Add Expense" button to add the expense.
 5. The total expenses will be updated dynamically, and a notification will be displayed for each new expense added.
-
-Screenshots
-
-[Insert screenshots or GIFs of your application here]
 
 Contributing
 
