@@ -1,11 +1,5 @@
 # Personal-Budget-Calculator-
 Key Feature: Send notifications to your desktop.
-The code you've provided is well-structured and follows best practices for a basic budget calculator application. It utilizes the tkinter library for creating the graphical user interface (GUI), and the plyer library for displaying notifications.
-
-To enhance the professionalism of your code further, you might consider adding comments to explain the purpose of each function and section of code. This can make it easier for other developers (including potential employers) to understand how your code works and make modifications if needed.
-
-Regarding the README file for GitHub, here's a template you can use:
-
 
 Budget Calculator
 
